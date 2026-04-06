@@ -1,5 +1,6 @@
 # Security+ Study Guide (SY0-701)
 
+
 > A practical roadmap for anyone starting their Security+ journey — curated from my experience passing the exam in 20 days.
 
 ---
@@ -24,7 +25,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 4. **Labs/PBQs** – Simulate scenarios in a virtual lab (optional, but highly recommended).  
 5. **AI Quizzing** – Use ChatGPT or other AI tools for mini-quizzes.  
 
-> For detailed study tips, AI prompts, PBQ labs, and note-taking advice, see the [Study Guide](guides/Study_Guide.md).
+> For detailed study tips, AI prompts, PBQ labs, and note-taking advice, see the [Study Guide](Study_Guide.md).
 
 ---
 
@@ -32,7 +33,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 | Type | Resource | Purpose |
 |------|---------|---------|
-| Video | [Professor Messer Security+ Playlist](https://www.youtube.com/c/ProfessorMesser) | Full coverage of exam objectives |
+| Video | [Professor Messer Security+ Playlist]([https://www.youtube.com/c/ProfessorMesser](https://youtu.be/KiEptGbnEBc?si=n93Gpmb_cbOGJjwO)) | Full coverage of exam objectives |
 | Practice Exams | [Udemy Course 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/) | Simulated exam experience |
 | Practice Exams | [Udemy Course 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/) | Extra practice & variety |
 | Online Questions | [ExamCompass](https://www.examcompass.com/comptia/security-plus-practice-questions) | Quick topic-based quizzes |
@@ -44,3 +45,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 ## License
 - Free for learners. No commercial use.  
 - Feel free to fork, add notes, or improve resources.
+
+## Final Thought
+
+**REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. ALL THE BEST
