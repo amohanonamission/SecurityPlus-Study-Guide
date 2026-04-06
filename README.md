@@ -1,117 +1,46 @@
 # Security+ Study Guide (SY0-701)
 
-Congratulations! You are about to begin your journey to earn the CompTIA Security+ certification. This repository is designed to guide beginners from the basics to exam readiness using curated resources, labs, practice questions, and AI-assisted quizzing.
+> A practical roadmap for anyone starting their Security+ journey — curated from my experience passing the exam in 20 days.
 
 ---
 
-## **1. Study Philosophy**
+## About This Repo
+I passed CompTIA Security+ (SY0-701) in **20 days** by following a structured study plan:
 
-- Immerse yourself with curiosity and genuine interest.
-- Start with fundamentals: CIA triad, AAA, zero trust, threat types, networking, cryptography.
-- Practice scenarios in a lab — PBQs are challenging without hands-on experience.
-- Use AI to quiz yourself, recall definitions, simulate attack scenarios, and validate understanding.
-- Track your weak areas in a notes file for daily revision.
-- Suggested Comptia A+ and Network+ for people with no prior experience.
+- Watched **Professor Messer videos**  
+- Practiced **online questions** (ExamCompass, iOS apps)  
+- Did **Udemy practice exams**  
+- Simulated **PBQ scenarios in labs**  
+- Used **AI to quiz myself**  
 
----
-
-## **2. Core Resources**
-
-### **Videos**
-- Professor Messer YouTube Channel: [Security+ Videos]([https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv])
-- Focus on watching with curiosity, not just passive consumption.
-- The goal is to understand and internalize the topics.
-
-### **Practice Questions**
-- ExamCompass: [Security+ Questions](https://www.examcompass.com/comptia/security-plus-practice-questions)
-- iOS apps for daily quizzing
-- Udemy courses:
-  - [Jason Dion Practice Exams 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/)
-  - [Jason Dion Practice Exams 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/)
-
-### **Tools for Hands-On Labs**
-- VirtualBox / VMware
-- Kali Linux
-- Windows Server for lab scenarios
-- Wireshark, Nmap, Nessus (for monitoring, vulnerability analysis)
+This repo provides a concise roadmap, resource links, and guidance for anyone starting from zero.
 
 ---
 
-## **3. Lab & Performance-Based Questions (PBQs)**
+## How to Use This Repo
+1. **Watch Videos** – Start with Professor Messer’s full Security+ playlist.  
+2. **Check Exam Objectives** – Make a checklist to track progress.  
+3. **Practice Questions** – Use ExamCompass, Udemy, or iOS apps daily.  
+4. **Labs/PBQs** – Simulate scenarios in a virtual lab (optional, but highly recommended).  
+5. **AI Quizzing** – Use ChatGPT or other AI tools for mini-quizzes.  
 
-- Build small virtual networks and simulate:
-  - Firewall rules
-  - Access controls (RBAC, ABAC)
-  - Patch management and vulnerability scanning
-  - SIEM log monitoring
-  - Incident response scenarios
-- Resources: See `labs/PBQ_lab_guide.md` for step-by-step lab exercises.
-
----
-
-## **4. Exam Objectives & Topics**
-
-**1. General Security Concepts (12%)**
-- Security controls: technical, preventive, managerial, deterrent, operational, detective, physical, corrective, compensating, directive
-- CIA, non-repudiation, AAA, zero trust
-- Change management & PKI
-
-**2. Threats, Vulnerabilities & Mitigations (22%)**
-- Threat actors & motivations
-- Threat vectors: message, network, social engineering, supply chain
-- Vulnerabilities: OS, app, cloud, web, hardware
-- Malware, password attacks, cryptography attacks
-- Mitigation: segmentation, hardening, patching
-
-**3. Security Architecture (18%)**
-- Models: on-prem, cloud, virtualization, IoT, ICS, IaC
-- Infrastructure: secure communication/access, control selection
-- Data protection & classification
-- Resilience & recovery
-
-**4. Security Operations (28%)**
-- Secure computing resources, asset management
-- Vulnerability management
-- Alerting & monitoring
-- Enterprise security tools (firewalls, IDS/IPS, DLP, NAC, EDR/XDR)
-- IAM (SSO, MFA, privileged access)
-- Automation, orchestration, incident response
-- Data sources & log analysis
-
-**5. Security Program Management & Oversight (20%)**
-- Security governance, risk management, third-party risk
-- Compliance & audits
-- Security awareness
+> For detailed study tips, AI prompts, PBQ labs, and note-taking advice, see the [Study Guide](guides/Study_Guide.md).
 
 ---
 
-## **5. Study Tips**
+## Core Resources
 
-- Follow the exam objectives sequentially.
-- Use spaced repetition and AI quizzing daily.
-- Track mistakes from practice tests and PBQs.
-- Don’t just memorize—understand the “why” behind controls and attacks.
-- Schedule full-length mock exams on weekends to track progress.
-
----
-
-## **6. AI Quizzing Suggestions**
-
-- Use ChatGPT or similar tools to:
-  - Generate random questions on any Security+ topic
-  - Simulate PBQ scenarios (e.g., firewall rule analysis)
-  - Explain concepts you forget in simple terms
-  - Practice 10–20 questions daily in timed mode
+| Type | Resource | Purpose |
+|------|---------|---------|
+| Video | [Professor Messer Security+ Playlist](https://www.youtube.com/c/ProfessorMesser) | Full coverage of exam objectives |
+| Practice Exams | [Udemy Course 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/) | Simulated exam experience |
+| Practice Exams | [Udemy Course 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/) | Extra practice & variety |
+| Online Questions | [ExamCompass](https://www.examcompass.com/comptia/security-plus-practice-questions) | Quick topic-based quizzes |
+| AI Quizzing | ChatGPT/OpenAI tools | Generate practice questions, explain concepts, simulate PBQs |
+| Mobile Apps | iOS Security+ quiz apps | Daily on-the-go practice |
 
 ---
 
-## **7. Contributing**
-
-- Pull requests for additional labs, resources, and practice questions are welcome.
-- Share your tips on AI usage, mobile quizzing, or lab setups.
-
----
-
-## **License**
-
-This repository is free for learners. No commercial use.
+## License
+- Free for learners. No commercial use.  
+- Feel free to fork, add notes, or improve resources.
