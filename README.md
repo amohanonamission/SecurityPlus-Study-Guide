@@ -47,4 +47,4 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 ## Final Thought
 
-**REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. ALL THE BEST
+> **REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. ALL THE BEST
