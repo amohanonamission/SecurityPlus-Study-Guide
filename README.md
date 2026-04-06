@@ -1,7 +1,6 @@
 # Security+ Study Guide (SY0-701)
 
-
-> A practical roadmap for anyone starting their Security+ journey — curated from my experience passing the exam in 20 days.
+Congratulations! You are about to begin your journey to earn the CompTIA Security+ certification. This repository is designed to guide beginners from the basics to exam readiness using curated resources, labs, practice questions, and AI-assisted quizzing.
 
 ---
 
@@ -33,7 +32,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 | Type | Resource | Purpose |
 |------|---------|---------|
-| Video | [Professor Messer Security+ Playlist]([https://www.youtube.com/c/ProfessorMesser](https://youtu.be/KiEptGbnEBc?si=n93Gpmb_cbOGJjwO)) | Full coverage of exam objectives |
+| Video | [Professor Messer Security+ Playlist](https://youtu.be/KiEptGbnEBc?si=n93Gpmb_cbOGJjwO) | Full coverage of exam objectives |
 | Practice Exams | [Udemy Course 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/) | Simulated exam experience |
 | Practice Exams | [Udemy Course 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/) | Extra practice & variety |
 | Online Questions | [ExamCompass](https://www.examcompass.com/comptia/security-plus-practice-questions) | Quick topic-based quizzes |
