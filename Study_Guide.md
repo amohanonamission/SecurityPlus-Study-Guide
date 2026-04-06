@@ -1,5 +1,7 @@
 # Security+ Study Guide (Detailed Tips)
 
+> A practical roadmap for anyone starting their Security+ journey — curated from my experience passing the exam in 20 days.
+
 ## **1. Study Philosophy**
 
 - Immerse yourself with curiosity and genuine interest.
