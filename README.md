@@ -60,10 +60,6 @@ However, I already had:
 
 If you are completely new to cybersecurity, consider extending your preparation timeline to 4–8 weeks and spending additional time on labs and fundamentals.
 
-### License
-- Free for learners. No commercial use.  
-- Feel free to fork, add notes, or improve resources.
-
 ### Future Improvements
 
 - Additional PBQ examples
@@ -71,6 +67,14 @@ If you are completely new to cybersecurity, consider extending your preparation 
 - Lab walkthroughs
 - More practice questions
 - Community contributions
+
+
+### License
+
+The original study notes and summaries written in this repository are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+* **For Learners:** You are free to fork this repo, add your personal notes, and share it for non-commercial educational purposes.
+* **Third-Party Content:** This license applies solely to the original text within this repository. All external links, YouTube videos, and Udemy courses remain the intellectual property of their respective creators.
 
 ---
 
